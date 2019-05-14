@@ -1,7 +1,7 @@
 def using_while
 counter = 0
-	while looping_string < 10
+	while counter < 10
 		puts "Wingardium Leviosa"
-		looping_string += 1
+		counter += 1
   end
 end
